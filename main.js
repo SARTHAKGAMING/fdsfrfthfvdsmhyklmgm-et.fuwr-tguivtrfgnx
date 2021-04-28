@@ -16,7 +16,7 @@ var tintcolour="";
 function draw() {
 
 
-    Image(video,0,0,640,400);
+    image(video,0,0,640,400);
 
     tint(tintcolour);
 
